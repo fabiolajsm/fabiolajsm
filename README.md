@@ -1,5 +1,5 @@
 # < Hello 🌎 ! <img src= "wave.gif" width="30px"/> />
- I'm Fabiola Suárez, a **Full-stack Web Developer** in Buenos Aires Argentina. I like to learn something new every day and I am passionate about innovation and creative stuff with logic. Some of my knowledges are:
+ I'm Fabiola Suárez, a **Full-stack Web Developer** in Buenos Aires, Argentina. I like to learn something new every day and I am passionate about innovation and creative stuff with logic. Some of my knowledges are:
 * Javascript.
 * React and Redux.
 * HTML, CSS, ES6, Typescript.
@@ -9,7 +9,7 @@
 * DBMS, SQL, ORMs, Authetication, Sequelize.
 * AJAX, Common JS, Modules and bundlers, Babel, Webpack, and others.
 
- At the same time I'm studying economic systems at <a href="https://www.economicas.uba.ar/alumnos/sistemas/">university</a>. One of the things that I enjoy the most at work is being able to solve problems and work as a team. 
+ At the same time I'm studying economic systems at <a href="https://www.economicas.uba.ar/alumnos/sistemas/"> UBA University</a>. One of the things that I enjoy the most at work is being able to solve problems and work as a team. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoy&layout=compact)](https://github.com/renatoy/github-readme-stats)
 
