@@ -1,17 +1,25 @@
+# < Hello 🌎 ! <img src= "wave.gif" width="30px"/> />
+### I'm Fabiola Suárez, a **Full-stack Web Developer** in Buenos Aires Argentina. I like to learn something new every day and I am passionate about innovation and creative stuff with logic. Some of my knowledges are:
+* Javascript.
+* React and Redux.
+* HTML, CSS, ES6, Typescript.
+* Node, Promises, WebServer.
+* Data structure and algorithms.
+* Express, Testing, AsyncAwait.
+* DBMS, SQL, ORMs, Authetication, Sequelize.
+* AJAX, Common JS, Modules and bundlers, Babel, Webpack, and others.
 
-### <Hey there 👋 />
-Im Fabiola Suárez, a Fullstack Developer in Buenos Aires Argentina. I like learn something new every day and I am passionate about innovation and creatives stuff with logic. 
-<!--
-**fabiolajsm/fabiolajsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### At the same time I'm studying economic systems at <a href="https://www.economicas.uba.ar/alumnos/sistemas/">university</a>. One of the things that I enjoy the most at work is being able to solve problems and work as a team. 
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoy&layout=compact)](https://github.com/renatoy/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 If you want to contact me, I'll be happy to meet you!   
+<a title="LinkedIn" href="https://www.linkedin.com/in/fabiolajsm/"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" alt="LinkedIn" height="60" width="50"/></a>   <a href="https://wa.me/+5491133398516/?text=Hi Fabiola!"> <img alt="WhatsApp" src="ws.png" height="58" width="60" ></a>
+<a href="mailto:suarezfabiola17@gmail.com"> <img alt="E-mail" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg" height="60" width="50" ></a>
+
+
+### Thanks for your time!
+<img align="center" width="200" height="180" src="good.gif"></a>
+
+### bailecito de gracias:)
+
