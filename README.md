@@ -6,7 +6,7 @@
 * Node, Promises, WebServer.
 * Data structure and algorithms.
 * Express, Testing, AsyncAwait.
-* DBMS, SQL, PostgreSQL ORMs, Authetication, Sequelize.
+* DBMS, SQL, PostgreSQL, ORMs, Authetication, Sequelize.
 * AJAX, Common JS, Modules and bundlers, Babel, Webpack, and others.
 
  At the same time I'm studying economic systems at <a href="https://www.economicas.uba.ar/alumnos/sistemas/"> UBA University</a>. One of the things that I enjoy the most at work is being able to solve problems and work as a team. 
