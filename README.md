@@ -2,7 +2,7 @@
  I'm Fabiola Suárez, a **Full-stack Web Developer** in Buenos Aires, Argentina. I like to learn something new every day and I am passionate about innovation and creative stuff with logic. Some of my knowledges are:
 * Javascript.
 * React and Redux.
-* HTML, Advanced CSS, ES6, Typescript.
+* HTML5, Advanced CSS, ES6, Typescript.
 * Node, Promises, WebServer.
 * Data structure and algorithms.
 * Express, Testing, AsyncAwait.
