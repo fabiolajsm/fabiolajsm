@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolajsm&layout=compact)](https://github.com/fabiolajsm/github-readme-stats)
 ### 🔎 If you want to contact me, I'll be happy to meet you!   
-<a title="LinkedIn" href="https://www.linkedin.com/in/fabiolajsm/"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" alt="LinkedIn" height="60" width="50"/></a><a href="mailto:suarezfabiola17@gmail.com"> <img alt="E-mail" src="gmail.png" height="45" width="58" ></a>   
+<a title="LinkedIn" href="https://www.linkedin.com/in/fabiolajsm/"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" alt="LinkedIn" height="60" width="50"/></a><a href="mailto:suarezfabiola17@gmail.com"> <img alt="E-mail" src="gmail.png" height="48" width="58" ></a>   
 
 
 ### Thanks for your time!
