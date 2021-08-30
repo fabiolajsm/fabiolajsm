@@ -2,7 +2,7 @@
  I'm Fabiola Suárez, a **Full-stack Web Developer** in Buenos Aires, Argentina. I like to learn something new every day and I am passionate about innovation and creative stuff with logic. Some of my knowledges are:
 * Javascript.
 * React and Redux.
-* HTML5, Advanced CSS, ES6, Typescript.
+* HTML5, Advanced CSS, ES6.
 * Node, Promises, WebServer.
 * Data structure and algorithms.
 * Express, Testing, AsyncAwait.
@@ -10,6 +10,7 @@
 * AJAX, Common JS, Modules and bundlers, Babel, Webpack, and others.
 * Git, Test-Driven Development, Object Oriented Programming.
 * SCRUM and agile methodologies.
+* Nodemailer, Google Cloud Platform y Socket io.
 
  At the same time I'm studying economic systems at <a href="https://www.economicas.uba.ar/alumnos/sistemas/"> UBA University</a>. One of the things that I enjoy the most at work is being able to solve problems and work as a team. 
 
